@@ -1,0 +1,41 @@
+{
+  "files": {
+    "main.css": "/static/css/main.3d702331.css",
+    "main.js": "/static/js/main.fd6e382a.js",
+    "static/media/shovel.png": "/static/media/shovel.6f0b87b2b95509c68ea9.png",
+    "static/media/gold.svg": "/static/media/gold.b72d74ce61bb91da4b4ea748bcc7fdc8.svg",
+    "static/media/main.png": "/static/media/main.139fa2a60ab0363a7e78.png",
+    "static/media/box.svg": "/static/media/box.4fa0d9d1cf47ecf527f9201061fe6b6a.svg",
+    "static/media/Montserrat-Regular.woff": "/static/media/Montserrat-Regular.705edb501b212444957b.woff",
+    "static/media/home-bg.png": "/static/media/home-bg.1f40692110e311f10894.png",
+    "static/media/Montserrat-Bold.woff2": "/static/media/Montserrat-Bold.cc5e0ed4f5f480a29685.woff2",
+    "static/media/Montserrat-Regular.woff2": "/static/media/Montserrat-Regular.e37dc6b1ad739f266d02.woff2",
+    "static/media/loading-img.png": "/static/media/loading-img.a7e2ed06db298b1d030b.png",
+    "static/media/cell.svg": "/static/media/cell.f076040a3bdda2525e9b.svg",
+    "static/media/cup.svg": "/static/media/cup.c93031501ec1fdcda41c7642f3400ba8.svg",
+    "static/media/TitanOne-Regular.woff": "/static/media/TitanOne-Regular.ef2220ce1b8fc1ee700b.woff",
+    "static/media/skull.svg": "/static/media/skull.c8a784004aab90e286ab07641258b9b7.svg",
+    "static/media/TitanOne-Regular.woff2": "/static/media/TitanOne-Regular.feecf705e0520e7c7c3b.woff2",
+    "static/media/diamond.svg": "/static/media/diamond.d45c5ca8cbc322b74c1305be5405e864.svg",
+    "static/media/Partners-img.svg": "/static/media/Partners-img.48b2d4e236590677caf25cc5d8d7e598.svg",
+    "static/media/line.svg": "/static/media/line.34ebf772d879f8de2d67.svg",
+    "static/media/line2.svg": "/static/media/line2.247b7bb596fc3deb4b77.svg",
+    "static/media/solar_cup.svg": "/static/media/solar_cup.04ea43cf94be3a3406158aadacc52fde.svg",
+    "static/media/tasks.svg": "/static/media/tasks.f77fcabe0c95296351b1353c05f0cc99.svg",
+    "static/media/team.svg": "/static/media/team.e73ad8d87c8e451e64b04f7f4424f8c9.svg",
+    "static/media/map.svg": "/static/media/map.e8c77654d4088d43cab391bdf1bf9d23.svg",
+    "static/media/Telegram-img.svg": "/static/media/Telegram-img.e705bf13fa4e5de9c7857a4cd47a12d8.svg",
+    "static/media/shovel.svg": "/static/media/shovel.0327fd411967f98521a48182228b877a.svg",
+    "static/media/Copylink-img.svg": "/static/media/Copylink-img.ee0abddbe64715dd1b1ee98f92197819.svg",
+    "static/media/Paragraph.svg": "/static/media/Paragraph.b42e858cb9105b71860bc7432a3cec84.svg",
+    "static/media/arrow-img.svg": "/static/media/arrow-img.ef6f585d3dc39cd4753b942a313bdbed.svg",
+    "static/media/Levels-img.svg": "/static/media/Levels-img.83526cec95250132243b116794a6f4d7.svg",
+    "index.html": "/index.html",
+    "main.3d702331.css.map": "/static/css/main.3d702331.css.map",
+    "main.fd6e382a.js.map": "/static/js/main.fd6e382a.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.3d702331.css",
+    "static/js/main.fd6e382a.js"
+  ]
+}
